@@ -8,8 +8,8 @@ This project is an automated API testing framework built using **Java**, **Maven
 
 PNR_Enquiry_System/
 ├── src/test/java/
-│ └── Swiggy/
-│ └── LoginTest.java
+│ └── PNR Enquiry/
+│ └── PNRTest.java
 ├── pom.xml
 └── README.md
 
