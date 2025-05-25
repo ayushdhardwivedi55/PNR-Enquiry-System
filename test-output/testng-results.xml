@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-30T10:30:58 IST" name="Default suite" finished-at="2025-04-30T10:31:00 IST" duration-ms="2828">
+    <groups>
+    </groups>
+    <test started-at="2025-04-30T10:30:58 IST" name="Default test" finished-at="2025-04-30T10:31:00 IST" duration-ms="2828">
+      <class name="PNR.PNRTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:PNR.PNRTest@3012646b]" started-at="2025-04-30T10:30:58 IST" name="setUp" finished-at="2025-04-30T10:30:58 IST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGetPNRDetails()[pri:0, instance:PNR.PNRTest@3012646b]" started-at="2025-04-30T10:30:58 IST" name="testGetPNRDetails" finished-at="2025-04-30T10:31:00 IST" duration-ms="2170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPNRDetails -->
+        <test-method signature="testGetPNRDetails_RAC()[pri:0, instance:PNR.PNRTest@3012646b]" started-at="2025-04-30T10:31:00 IST" name="testGetPNRDetails_RAC" finished-at="2025-04-30T10:31:00 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPNRDetails_RAC -->
+        <test-method signature="testGetPNRDetails_Waiting()[pri:0, instance:PNR.PNRTest@3012646b]" started-at="2025-04-30T10:31:00 IST" name="testGetPNRDetails_Waiting" finished-at="2025-04-30T10:31:00 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPNRDetails_Waiting -->
+        <test-method is-config="true" signature="AfterAllTests()[pri:0, instance:PNR.PNRTest@3012646b]" started-at="2025-04-30T10:31:00 IST" name="AfterAllTests" finished-at="2025-04-30T10:31:00 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterAllTests -->
+      </class> <!-- PNR.PNRTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
